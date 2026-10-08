@@ -1,0 +1,14 @@
+{
+  "string": [
+    { "name": "module_desc",        "value": "Theme demo module" },
+    { "name": "EntryAbility_desc",  "value": "Theme demo" },
+    { "name": "EntryAbility_label", "value": "ThemeDemo" },
+    { "name": "home_title",         "value": "Team" },
+    { "name": "open_settings",      "value": "Settings" },
+    { "name": "settings_title",     "value": "Appearance" },
+    { "name": "theme_light",        "value": "Light" },
+    { "name": "theme_dark",         "value": "Dark" },
+    { "name": "theme_system",       "value": "Follow system" },
+    { "name": "settings_hint",      "value": "Your choice is saved and applied to every page." }
+  ]
+}
